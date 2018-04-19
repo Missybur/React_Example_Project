@@ -146,9 +146,7 @@ function Player(props) {
   return (
      <div className="player">
        <div className="player-name">  
-          <a className="player-score" onClick={props.onRemove}> <i class="fas fa-times-circle"></i>
-
- </a>
+          <a className="player-score" onClick={props.onRemove}> X </a>
           {props.name}
         </div>
         <div className="player-score">

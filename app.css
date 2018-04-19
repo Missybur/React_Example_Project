@@ -117,7 +117,10 @@ body {
 
   .player-score {
     width: 190px;
-    background: blue;
+    margin-right: 10px;
+    padding-left: 5px;
+    color: red;
+    background: transparent;
   }
 
   .counter {
