@@ -1,5 +1,5 @@
 body {
-  background: #99111D; 
+  background: #8C2224; 
   font-family: arial;
   color: #FAFAFA;
   text-transform: uppercase;
@@ -33,7 +33,7 @@ body {
 
 .header .stats,
 .header .stopwatch {
-  width: 290px !important;
+  width: 170px;
 }
 
 .stats {
