@@ -1,42 +1,42 @@
 
 let PLAYERS = [
     {
-    name: "Emmanuel Diserbeau",
+    name: "Emmanuel",
     score: 31,
     id: 1,
   },
   {
-    name: "Arsenio Jakovcich",
+    name: "Arsenio",
     score: 35,
     id: 2,
   },
     {
-    name: "Melanie Ehasz",
+    name: "Melanie",
     score: 30,
     id: 3,
   },
       {
-    name: "Peter Ho",
+    name: "Peter",
     score: 25,
     id: 4,
   },
       {
-    name: "Mani Jalilian",
+    name: "Mani",
     score: 27,
     id: 5,
   },
       {
-    name: "Miguel Dominguez",
+    name: "Miguel",
     score: 29,
     id: 6,
   },
       {
-    name: "Jason Nguyen",
+    name: "Jason",
     score: 22,
     id: 7,
   },
       {
-    name: "Missy Bur",
+    name: "Missy",
     score: 28,
     id: 8,
   },
